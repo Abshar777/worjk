@@ -1,0 +1,46 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 27 Mar 2024 17:14:25 at https://templates.g5plus.net/glowing-bootstrap-5/about-us-01.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://templates.g5plus.net/glowing-bootstrap-5/about-us-01.html -O1 "C:\Users\User\Desktop\first project\abshar" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:16:13	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/store.html (from https://templates.g5plus.net/glowing-bootstrap-5/about-us-01.html)
+17:17:25	Error: 	"Not Found" (404) at link https://templates.g5plus.net/assets/images/header/flag.jpg (from https://templates.g5plus.net/glowing-bootstrap-5/home-02.html)
+17:17:25	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/shop-page-04.html (from https://templates.g5plus.net/glowing-bootstrap-5/home-03.html)
+17:17:31	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/dashboard/dashboard/sellers-profile.html (from https://templates.g5plus.net/glowing-bootstrap-5/dashboard/sellers-cards.html)
+17:17:31	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blocks/shop-page-04.html (from https://templates.g5plus.net/glowing-bootstrap-5/blocks/call-to-action.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/docs//getting-started/accessibility/ (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/accordion.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/_accordion.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/accordion.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/src/assets/scss/_theme-variables.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/accordion.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blocks/shop/checkout.html (from https://templates.g5plus.net/glowing-bootstrap-5/blocks/heros/home-01.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blocks/shop/shopping-cart.html (from https://templates.g5plus.net/glowing-bootstrap-5/blocks/heros/home-01.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blocks/assets/images/header/flag.jpg (from https://templates.g5plus.net/glowing-bootstrap-5/blocks/heros/home-02.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blocks/heros/shop-page-04.html (from https://templates.g5plus.net/glowing-bootstrap-5/blocks/heros/home-03.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blocks/find-a-store.html (from https://templates.g5plus.net/glowing-bootstrap-5/blocks/footer/footer-02.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/_root.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/content/reboot.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/_reboot.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/content/reboot.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/mixins/_table-variants.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/content/tables.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/src/assets/scss/_theme-variables-dark.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/styleguide/color-modes.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/mixins/_color-mode.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/styleguide/color-modes.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/_alert.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/alerts.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/_maps.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/background.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/mixins/_gradients.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/background.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/_utilities.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/background.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/_badge.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/badges.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/_buttons.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/buttons.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/mixins/_buttons.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/buttons.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/_card.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/card.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/_variables.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/carousel.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/docs//getting-started/javascript/ (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/carousel.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/_dropdown.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/dropdowns.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/mixins/_caret.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/dropdowns.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/_modal.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/modal.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/_nav.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/tabs.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/blob/v/scss/bootstrap/_tooltip.scss (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/tooltips-popovers.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/docs/blog/details-01.html (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/posts.html)
+17:17:51	Error: 	"Not Found" (404) at link https://templates.g5plus.net/glowing-bootstrap-5/docs/components/shop-page-04.html (from https://templates.g5plus.net/glowing-bootstrap-5/docs/components/image-box.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 26 seconds : 411 links scanned, 374 files written (63038592 bytes overall) [25516404 bytes received at 123866 bytes/sec], 48890951 bytes transferred using HTTP compression in 280 files, ratio 22%, 27.4 requests per connection
+(35 errors, 0 warnings, 0 messages)
